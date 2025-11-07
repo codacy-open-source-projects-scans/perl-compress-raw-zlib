@@ -78,6 +78,9 @@ SKIP:
             '2.2.0' => '1.3.1.zlib-ng',
             '2.2.1' => '1.3.1.zlib-ng',
             '2.2.2' => '1.3.1.zlib-ng',
+            '2.2.3' => '1.3.1.zlib-ng',
+            '2.2.4' => '1.3.1.zlib-ng',
+            '2.2.5' => '1.3.1.zlib-ng',
         );
 
         my $zv = Compress::Raw::Zlib::zlibng_version();
